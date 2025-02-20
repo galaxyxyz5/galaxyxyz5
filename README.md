@@ -34,10 +34,8 @@ Here are some ideas to get you started:
   I’m eager to collaborate and bring innovative solutions to your projects. Whether you’re looking to optimize existing processes or develop new applications, I’m here to help. Let’s connect and discuss how we can transform your ideas into reality! <br/> <br/>
 
   🔹 𝑲𝒆𝒚𝒘𝒐𝒓𝒅𝒔 <br/>
-  • AI Automation • No-Code Development • Low-Code Solutions • Healthcare Technology • Fintech Innovation • E-commerce Optimization • Appian • Mendix • Adalo • Creatio CRM • Zoho CRM • n8n • Zapier • Make.com • React • Angular • Vue.js • Node.js • Python • Ruby on Rails   • Workflow Automation • CRM Integration • AI Chatbots • Real-Time Data Management • Secure Payment Gateways • Custom App Development
-</p>
+  • AI Automation • No-Code Development • Low-Code Solutions • Healthcare Technology • Fintech Innovation • E-commerce Optimization • Appian • Mendix • Adalo • Creatio CRM • Zoho CRM • n8n • Zapier • Make.com • React • Angular • Vue.js • Node.js • Python • Ruby on Rails   • Workflow Automation • CRM Integration • AI Chatbots • Real-Time Data Management • Secure Payment Gateways • Custom App Development <br/> <br/>
 
-<p>
   🔹 𝑪𝒐𝒏𝒕𝒂𝒄𝒕 𝑰𝒏𝒇𝒐 <br /> <br />
   <a href="mailto:secretdragon51959@gmail.com">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail"/>
