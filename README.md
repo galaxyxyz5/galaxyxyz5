@@ -38,16 +38,16 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="mailto:secretdragon51959@gmail.com">
+  <a href="mailto:secretdragon51959@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/2x/gmail-new.png" width="50"/>
   </a>&nbsp;&nbsp;
-  <a href="https://join.skype.com/invite/wzKYgJcvbUec">
+  <a href="https://join.skype.com/invite/wzKYgJcvbUec" target="_blank">
     <img src="https://img.icons8.com/color/2x/skype.png" width="50"/>
   </a>&nbsp;&nbsp;
 <!--     <a href="https://discord.com/channels/@me">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=discord"/>
   </a> -->
-  <a href="https://t.me/quartzworld">
+  <a href="https://t.me/quartzworld" target="_blank">
     <img src="https://img.icons8.com/color/2x/telegram-app.png" width="50"/>
   </a>
 </p>
