@@ -40,6 +40,6 @@ Here are some ideas to get you started:
 <p>
   Contact Info: <br />
   • Mail: secretdragon51959@gmail.com <br />
-  • Discord: galaxyz <br />
+  • Discord: galaxyzw <br />
   • Skype: live:.cid.e52ab0ff0ab1c7b4
 </p>
