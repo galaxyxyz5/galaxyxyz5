@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-  🔹 𝑪𝒐𝒏𝒕𝒂𝒄𝒕 𝑰𝒏𝒇𝒐 <br />
+  🔹 𝑪𝒐𝒏𝒕𝒂𝒄𝒕 𝑰𝒏𝒇𝒐 <br /> <br />
   <a href="mailto:secretdragon51959@gmail.com">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail"/>
   </a>
