@@ -38,7 +38,9 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-  <h4>𝑪𝒐𝒏𝒕𝒂𝒄𝒕 𝑰𝒏𝒇𝒐</h4> <br />
-  • <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail"/> secretdragon51959@gmail.com <br />
-  • <img src="https://go-skill-icons.vercel.app/api/icons?i=discord"/>: galaxyzw <br />
+  🔹 𝑪𝒐𝒏𝒕𝒂𝒄𝒕 𝑰𝒏𝒇𝒐 <br />
+  <a href="mailto:secretdragon51959@gmail.com">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail"/>
+  </a>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=discord"/>: galaxyzw <br />
 </p>
