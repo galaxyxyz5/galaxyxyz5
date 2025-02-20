@@ -42,5 +42,7 @@ Here are some ideas to get you started:
   <a href="mailto:secretdragon51959@gmail.com">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail"/>
   </a>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=discord"/>
+  <a href="https://discord.com/channels/@me">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=discord"/>
+  </a>
 </p>
