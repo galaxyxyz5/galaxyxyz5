@@ -36,3 +36,10 @@ Here are some ideas to get you started:
   🔹 𝑲𝒆𝒚𝒘𝒐𝒓𝒅𝒔 <br/>
   • AI Automation • No-Code Development • Low-Code Solutions • Healthcare Technology • Fintech Innovation • E-commerce Optimization • Appian • Mendix • Adalo • Creatio CRM • Zoho CRM • n8n • Zapier • Make.com • React • Angular • Vue.js • Node.js • Python • Ruby on Rails   • Workflow Automation • CRM Integration • AI Chatbots • Real-Time Data Management • Secure Payment Gateways • Custom App Development
 </p>
+
+<p>
+  Contact Info: <br />
+  • Mail: secretdragon51959@gmail.com <br />
+  • Discord: galaxyz <br />
+  • Skype: live:.cid.e52ab0ff0ab1c7b4
+</p>
