@@ -35,19 +35,19 @@ Here are some ideas to get you started:
 
   🔹 𝑲𝒆𝒚𝒘𝒐𝒓𝒅𝒔 <br/>
   • AI Automation • No-Code Development • Low-Code Solutions • Healthcare Technology • Fintech Innovation • E-commerce Optimization • Appian • Mendix • Adalo • Creatio CRM • Zoho CRM • n8n • Zapier • Make.com • React • Angular • Vue.js • Node.js • Python • Ruby on Rails   • Workflow Automation • CRM Integration • AI Chatbots • Real-Time Data Management • Secure Payment Gateways • Custom App Development <br/> <br/>
+</p>
 
-  <div style="text-align: center">
-    <a href="mailto:secretdragon51959@gmail.com">
-      <img src="https://img.icons8.com/fluency/2x/gmail-new.png"/>
-    </a>
-    <a href="https://join.skype.com/invite/wzKYgJcvbUec">
-      <img src="https://img.icons8.com/color/2x/skype.png"/>
-    </a>
-    <a href="https://discord.com/channels/@me">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=discord"/>
-    </a>
-    <a href="https://t.me/quartzworld">
-      <img src="https://img.icons8.com/color/2x/telegram-app.png"/>
-    </a>
-  </div>
+<p align="center">
+  <a href="mailto:secretdragon51959@gmail.com">
+    <img src="https://img.icons8.com/fluency/2x/gmail-new.png" width="50"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://join.skype.com/invite/wzKYgJcvbUec">
+    <img src="https://img.icons8.com/color/2x/skype.png" width="50"/>
+  </a>&nbsp;&nbsp;
+<!--     <a href="https://discord.com/channels/@me">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=discord"/>
+  </a> -->
+  <a href="https://t.me/quartzworld">
+    <img src="https://img.icons8.com/color/2x/telegram-app.png" width="50"/>
+  </a>
 </p>
