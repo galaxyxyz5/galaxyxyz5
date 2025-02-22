@@ -44,8 +44,8 @@ Here are some ideas to get you started:
   <a href="https://join.skype.com/invite/wzKYgJcvbUec" target="_blank">
     <img src="https://img.icons8.com/color/2x/skype.png" width="50"/>
   </a>&nbsp;&nbsp;
-  <a href="https://https://teams.live.com/l/invite/FEAJlxRiGkym1pWgAE" target="_blank">
-    <img src="https://img.icons8.com/color/2x/microsoft-teams.png"/>
+  <a href="https://teams.live.com/l/invite/FEAJlxRiGkym1pWgAE" target="_blank">
+    <img src="https://img.icons8.com/color/2x/microsoft-teams.png" width="50"/>
   </a>
   <a href="https://t.me/quartzworld" target="_blank">
     <img src="https://img.icons8.com/color/2x/telegram-app.png" width="50"/>
