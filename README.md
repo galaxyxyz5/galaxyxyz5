@@ -44,9 +44,9 @@ Here are some ideas to get you started:
   <a href="https://join.skype.com/invite/wzKYgJcvbUec" target="_blank">
     <img src="https://img.icons8.com/color/2x/skype.png" width="50"/>
   </a>&nbsp;&nbsp;
-<!--     <a href="https://discord.com/channels/@me">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=discord"/>
-  </a> -->
+  <a href="https://https://teams.live.com/l/invite/FEAJlxRiGkym1pWgAE" target="_blank">
+    <img src="https://img.icons8.com/color/2x/microsoft-teams.png"/>
+  </a>
   <a href="https://t.me/quartzworld" target="_blank">
     <img src="https://img.icons8.com/color/2x/telegram-app.png" width="50"/>
   </a>
