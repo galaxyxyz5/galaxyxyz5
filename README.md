@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p style="text-align: center;">
+<p align="center">
   🚀💦 𝑲𝒊𝒄𝒌 𝒐𝒇𝒇 𝒚𝒐𝒖𝒓 𝒑𝒓𝒐𝒋𝒆𝒄𝒕 𝒊𝒎𝒎𝒆𝒅𝒊𝒂𝒕𝒆𝒍𝒚 💦🚀
 </p>
 
@@ -79,6 +79,11 @@ Here are some ideas to get you started:
   💬𝑳𝒆𝒕'𝒔 𝑪𝒐𝒏𝒏𝒆𝒄𝒕 <br />
   I’m eager to collaborate and bring innovative solutions to your projects. Whether you’re looking to optimize existing processes or develop new applications, I’m here to help. Let’s connect and discuss how we can transform your ideas into reality!
 </p>
+
+<br />
+<a href="https://github.com/galaxyxyz5"><img alt="galaxyxyz5's Github Stats" src="https://github-readme-stats.vercel.app/api?username=galaxyxyz5&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/galaxyxyz5"><img alt="galaxyxyz5's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galaxyxyz5&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<br />
 
 <p align="center">
   <a href="mailto:secretdragon51959@gmail.com" target="_blank">
