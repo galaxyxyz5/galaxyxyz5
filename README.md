@@ -12,69 +12,71 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p style="text-align: center">
+<p style="text-align: center;">
   🚀💦 𝑲𝒊𝒄𝒌 𝒐𝒇𝒇 𝒚𝒐𝒖𝒓 𝒑𝒓𝒐𝒋𝒆𝒄𝒕 𝒊𝒎𝒎𝒆𝒅𝒊𝒂𝒕𝒆𝒍𝒚 💦🚀
 </p>
 
 <p>
-  🌟 C#/.NET/ASP.NET Core/Blazor Expert 🌟
-  🌟 Angular Expert 🌟
-  🌟 Healthcare, SaaS, FinTech Expert 🌟
+  🌟 C#/.NET/ASP.NET Core/Blazor Expert 🌟 <br />
+  🌟 Angular Expert 🌟 <br />
+  🌟 Healthcare, SaaS, FinTech Expert 🌟 <br />
   
-  🌐 𝑾𝒐𝒓𝒌 𝑬𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆
+  <br />
   
-  🏥 HealthCare
-  💨 Telehealth/Telemedicine Virtual Appointment Booking Solutions & mHealth Apps
-  💨 EMR, HER, PHI, Medical Billing Solutions for Patient Healthcare/Medical Records
-  💨 Healthcare Marketplace Management Solutions
-  💨 Doctor-patient apps and Websites
-  💨 Medical Job Portals
-  💨 Staff Management Software, and more!
-  💨 Chat-bot, video call, SMS, email service integration
+  🌐 𝑾𝒐𝒓𝒌 𝑬𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆 <br />
   
-  💰 Financial Technology
-  💨 Digital Banking & Payment Gateway Integration
-  💨 P2P Lending Platforms & Digital Wallets
-  💨 Fraud Detection, Risk Assessment & KYC Compliance
-  💨 Blockchain & Smart Contract-Based Financial Solutions
-  💨 Investment & Wealth Management Platforms
-  💨 BNPL (Buy Now, Pay Later) and Microfinance Solutions
-  💨 AI-Powered Financial Analytics & Predictive Modeling
+  🏥 HealthCare <br />
+  💨 Telehealth/Telemedicine Virtual Appointment Booking Solutions & mHealth Apps <br />
+  💨 EMR, HER, PHI, Medical Billing Solutions for Patient Healthcare/Medical Records <br />
+  💨 Healthcare Marketplace Management Solutions <br />
+  💨 Doctor-patient apps and Websites <br />
+  💨 Medical Job Portals <br />
+  💨 Staff Management Software, and more! <br />
+  💨 Chat-bot, video call, SMS, email service integration <br /> <br />
   
-  🛒 E-commerce & Marketplace
-  💨 B2B, B2C, and Multi-Vendor Marketplace Development
-  💨 Custom E-commerce Platforms with Payment Processing
-  💨 Subscription-Based & On-Demand Commerce Solutions
-  💨 AI-Powered Product Recommendation Engines
-  💨 ERP, CRM, and Order Fulfillment System Integrations
-  💨 Warehouse & Inventory Management Solutions
-  💨 Personalized Shopping Experiences with Chatbots & Voice Assistants
+  💰 Financial Technology <br />
+  💨 Digital Banking & Payment Gateway Integration <br />
+  💨 P2P Lending Platforms & Digital Wallets <br />
+  💨 Fraud Detection, Risk Assessment & KYC Compliance <br />
+  💨 Blockchain & Smart Contract-Based Financial Solutions <br />
+  💨 Investment & Wealth Management Platforms <br />
+  💨 BNPL (Buy Now, Pay Later) and Microfinance Solutions <br />
+  💨 AI-Powered Financial Analytics & Predictive Modeling <br /> <br />
   
-  🛠𝑺𝒌𝒊𝒍𝒍 𝑺𝒆𝒕𝒔
+  🛒 E-commerce & Marketplace <br />
+  💨 B2B, B2C, and Multi-Vendor Marketplace Development <br />
+  💨 Custom E-commerce Platforms with Payment Processing <br />
+  💨 Subscription-Based & On-Demand Commerce Solutions <br />
+  💨 AI-Powered Product Recommendation Engines <br />
+  💨 ERP, CRM, and Order Fulfillment System Integrations <br />
+  💨 Warehouse & Inventory Management Solutions <br />
+  💨 Personalized Shopping Experiences with Chatbots & Voice Assistants <br /> <br />
   
-  .NET Tech Stack
-  💨 Languages: C#, VB.NET
-  💨 Frameworks: ASP.NET MVC, ASP.NET Core, Entity Framework, Blazor
-  💨 Databases: Microsoft SQL Server, MySQL, PostgreSQL, MongoDB, Vector Database
-  💨 Web Services: ASP.NET Web API, WCF, SOAP API, Microservices
-  💨 Mobile Development: Xamarin
-  💨 Cloud Platforms: Microsoft Azure, AWS, GCP
-  💨 Testing: NUnit, xUnit, MSTest, Selenium
-  💨 DevOps: Azure DevOps, Docker, Kubernetes
-  💨 Security: Authentication, Authorization, JWT
-  💨 Agile Methodologies: Scrum, Kanban
+  🛠𝑺𝒌𝒊𝒍𝒍 𝑺𝒆𝒕𝒔 <br />
   
-  Node.js Tech Stack
-  💨 Frameworks: Express.js, Nest.js
-  💨 Web Services: RESTful APIs, GraphQL
+  .NET Tech Stack <br />
+  💨 Languages: C#, VB.NET <br />
+  💨 Frameworks: ASP.NET MVC, ASP.NET Core, Entity Framework, Blazor <br />
+  💨 Databases: Microsoft SQL Server, MySQL, PostgreSQL, MongoDB, Vector Database <br />
+  💨 Web Services: ASP.NET Web API, WCF, SOAP API, Microservices <br />
+  💨 Mobile Development: Xamarin <br />
+  💨 Cloud Platforms: Microsoft Azure, AWS, GCP <br />
+  💨 Testing: NUnit, xUnit, MSTest, Selenium <br />
+  💨 DevOps: Azure DevOps, Docker, Kubernetes <br />
+  💨 Security: Authentication, Authorization, JWT <br />
+  💨 Agile Methodologies: Scrum, Kanban <br /> <br />
   
-  Frontend Stack
-  💨 Frameworks: React.js, Angular
-  💨 Web Technologies: HTML5, CSS3, JavaScript, TypeScript
-  💨 User Interface: Bootstrap, Tailwind CSS, Shadcn/UI
-  💨 IndexDB Integration for efficient data storage
+  Node.js Tech Stack <br />
+  💨 Frameworks: Express.js, Nest.js <br />
+  💨 Web Services: RESTful APIs, GraphQL <br />
   
-  💬𝑳𝒆𝒕'𝒔 𝑪𝒐𝒏𝒏𝒆𝒄𝒕
+  Frontend Stack <br />
+  💨 Frameworks: React.js, Angular <br />
+  💨 Web Technologies: HTML5, CSS3, JavaScript, TypeScript <br />
+  💨 User Interface: Bootstrap, Tailwind CSS, Shadcn/UI <br />
+  💨 IndexDB Integration for efficient data storage <br /> <br />
+  
+  💬𝑳𝒆𝒕'𝒔 𝑪𝒐𝒏𝒏𝒆𝒄𝒕 <br />
   I’m eager to collaborate and bring innovative solutions to your projects. Whether you’re looking to optimize existing processes or develop new applications, I’m here to help. Let’s connect and discuss how we can transform your ideas into reality!
 </p>
 
