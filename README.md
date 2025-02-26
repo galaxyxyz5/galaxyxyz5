@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 </h3>
 
 <p>
-  🌟 C#/.NET/ASP.NET Core/Blazor Expert 🌟 <br />
-  🌟 Angular Expert 🌟 <br />
-  🌟 Healthcare, SaaS, FinTech Expert 🌟 <br />
+  🌟 <b>C#/.NET/ASP.NET Core/Blazor Expert</b> 🌟 <br />
+  🌟 <b>Angular Expert</b> 🌟 <br />
+  🌟 <b>Healthcare, SaaS, FinTech Expert</b> 🌟 <br />
   
   <br />
   
   🌐 𝑾𝒐𝒓𝒌 𝑬𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆 <br />
   
-  🏥 HealthCare <br />
+  🏥 <b>HealthCare</b> <br />
   💨 Telehealth/Telemedicine Virtual Appointment Booking Solutions & mHealth Apps <br />
   💨 EMR, HER, PHI, Medical Billing Solutions for Patient Healthcare/Medical Records <br />
   💨 Healthcare Marketplace Management Solutions <br />
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   💨 Staff Management Software, and more! <br />
   💨 Chat-bot, video call, SMS, email service integration <br /> <br />
   
-  💰 Financial Technology <br />
+  💰 <b>Financial Technology</b> <br />
   💨 Digital Banking & Payment Gateway Integration <br />
   💨 P2P Lending Platforms & Digital Wallets <br />
   💨 Fraud Detection, Risk Assessment & KYC Compliance <br />
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   💨 BNPL (Buy Now, Pay Later) and Microfinance Solutions <br />
   💨 AI-Powered Financial Analytics & Predictive Modeling <br /> <br />
   
-  🛒 E-commerce & Marketplace <br />
+  🛒 <b>E-commerce & Marketplace</b> <br />
   💨 B2B, B2C, and Multi-Vendor Marketplace Development <br />
   💨 Custom E-commerce Platforms with Payment Processing <br />
   💨 Subscription-Based & On-Demand Commerce Solutions <br />
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
   
   🛠𝑺𝒌𝒊𝒍𝒍 𝑺𝒆𝒕𝒔 <br />
   
-  .NET Tech Stack <br />
+  <b>.NET Tech Stack</b> <br />
   💨 Languages: C#, VB.NET <br />
   💨 Frameworks: ASP.NET MVC, ASP.NET Core, Entity Framework, Blazor <br />
   💨 Databases: Microsoft SQL Server, MySQL, PostgreSQL, MongoDB, Vector Database <br />
@@ -66,11 +66,11 @@ Here are some ideas to get you started:
   💨 Security: Authentication, Authorization, JWT <br />
   💨 Agile Methodologies: Scrum, Kanban <br /> <br />
   
-  Node.js Tech Stack <br />
+  <b>Node.js Tech Stack</b> <br />
   💨 Frameworks: Express.js, Nest.js <br />
   💨 Web Services: RESTful APIs, GraphQL <br />
   
-  Frontend Stack <br />
+  <b>Frontend Stack</b> <br />
   💨 Frameworks: React.js, Angular <br />
   💨 Web Technologies: HTML5, CSS3, JavaScript, TypeScript <br />
   💨 User Interface: Bootstrap, Tailwind CSS, Shadcn/UI <br />
@@ -85,6 +85,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/galaxyxyz5"><img alt="galaxyxyz5's Github Stats" src="https://github-readme-stats.vercel.app/api?username=galaxyxyz5&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 -->
 <a href="https://github.com/galaxyxyz5"><img alt="galaxyxyz5's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galaxyxyz5&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<br />
 <br />
 
 <p align="center">
