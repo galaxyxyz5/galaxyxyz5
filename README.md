@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
+<h3 align="center">
   🚀💦 𝑲𝒊𝒄𝒌 𝒐𝒇𝒇 𝒚𝒐𝒖𝒓 𝒑𝒓𝒐𝒋𝒆𝒄𝒕 𝒊𝒎𝒎𝒆𝒅𝒊𝒂𝒕𝒆𝒍𝒚 💦🚀
-</p>
+</h3>
 
 <p>
   🌟 C#/.NET/ASP.NET Core/Blazor Expert 🌟 <br />
