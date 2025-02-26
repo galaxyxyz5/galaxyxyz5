@@ -12,29 +12,70 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p style="text-align: center">
+  🚀💦 𝑲𝒊𝒄𝒌 𝒐𝒇𝒇 𝒚𝒐𝒖𝒓 𝒑𝒓𝒐𝒋𝒆𝒄𝒕 𝒊𝒎𝒎𝒆𝒅𝒊𝒂𝒕𝒆𝒍𝒚 💦🚀
+</p>
+
 <p>
-  🌟 𝗔𝗜 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 🌟 | 🌟 𝗪𝗼𝗿𝗸𝗳𝗹𝗼𝘄 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻 𝗘𝘅𝗽𝗲𝗿𝘁 🌟 | 🌟 𝗡𝗼-𝗖𝗼𝗱𝗲/𝗟𝗼𝘄-𝗖𝗼𝗱𝗲 𝗘𝘅𝗽𝗲𝗿𝘁 🌟 <br/> <br/>
-
-  🔹 𝑺𝒌𝒊𝒍𝒍 𝑺𝒆𝒕𝒔 <br/>
-  💨 AI Workflow Automation Tools: n8n, Zapier, Make.com <br/>
-  💨 No-Code/Low-Code Frameworks: Webflow, Bubble, Appian, Mendix, Adalo <br/>
-  💨 CRM Technologies: Creatio CRM, Zoho CRM <br/>
-  💨 Frontend: React, Angular, Vue.js <br/>
-  💨 Backend: Node.js, Python, Ruby on Rails, Golang <br/> <br/>
-
-  🔹 𝑾𝒐𝒓𝒌 𝑬𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆 <br/>
-  💨 𝗛𝗲𝗮𝗹𝘁𝗵𝗰𝗮𝗿𝗲: Transformed patient management systems by integrating AI-driven workflows that reduced manual data entry by 70%. Developed a custom health tracking app using 𝑨𝒅𝒂𝒍𝒐, streamlining appointment scheduling and patient follow-ups. <br/>
-  💨 𝗙𝗶𝗻𝘁𝗲𝗰𝗵: Automated financial reporting processes with 𝒁𝒂𝒑𝒊𝒆𝒓, resulting in a 50% reduction in reporting time. Implemented secure payment gateways using Node.js, ensuring seamless transactions and enhanced user experiences. <br/>
-  💨 𝗘-𝗰𝗼𝗺𝗺𝗲𝗿𝗰𝗲: Enhanced customer engagement through AI-powered chatbots and real-time inventory management systems. Utilized 𝑴𝒆𝒏𝒅𝒊𝒙 to develop a robust e-commerce platform, increasing conversion rates by 30%. <br/> <br/>
-
-  🔹 𝑨𝒃𝒐𝒖𝒕 𝑴𝒚 𝑾𝒐𝒓𝒌 <br/>
-  I am committed to delivering high-quality solutions on time and within budget. My proficiency in modern technologies ensures that I can handle complex projects with ease and confidence. By choosing to work with me, you can trust in my dedication to achieving your        business goals efficiently and effectively. <br/> <br/>
-
-  🔹 𝑳𝒆𝒕’𝒔 𝑪𝒐𝒏𝒏𝒆𝒄𝒕 <br/>
-  I’m eager to collaborate and bring innovative solutions to your projects. Whether you’re looking to optimize existing processes or develop new applications, I’m here to help. Let’s connect and discuss how we can transform your ideas into reality! <br/> <br/>
-
-  🔹 𝑲𝒆𝒚𝒘𝒐𝒓𝒅𝒔 <br/>
-  • AI Automation • No-Code Development • Low-Code Solutions • Healthcare Technology • Fintech Innovation • E-commerce Optimization • Appian • Mendix • Adalo • Creatio CRM • Zoho CRM • n8n • Zapier • Make.com • React • Angular • Vue.js • Node.js • Python • Ruby on Rails   • Workflow Automation • CRM Integration • AI Chatbots • Real-Time Data Management • Secure Payment Gateways • Custom App Development <br/> <br/>
+  🌟 C#/.NET/ASP.NET Core/Blazor Expert 🌟
+  🌟 Angular Expert 🌟
+  🌟 Healthcare, SaaS, FinTech Expert 🌟
+  
+  🌐 𝑾𝒐𝒓𝒌 𝑬𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆
+  
+  🏥 HealthCare
+  💨 Telehealth/Telemedicine Virtual Appointment Booking Solutions & mHealth Apps
+  💨 EMR, HER, PHI, Medical Billing Solutions for Patient Healthcare/Medical Records
+  💨 Healthcare Marketplace Management Solutions
+  💨 Doctor-patient apps and Websites
+  💨 Medical Job Portals
+  💨 Staff Management Software, and more!
+  💨 Chat-bot, video call, SMS, email service integration
+  
+  💰 Financial Technology
+  💨 Digital Banking & Payment Gateway Integration
+  💨 P2P Lending Platforms & Digital Wallets
+  💨 Fraud Detection, Risk Assessment & KYC Compliance
+  💨 Blockchain & Smart Contract-Based Financial Solutions
+  💨 Investment & Wealth Management Platforms
+  💨 BNPL (Buy Now, Pay Later) and Microfinance Solutions
+  💨 AI-Powered Financial Analytics & Predictive Modeling
+  
+  🛒 E-commerce & Marketplace
+  💨 B2B, B2C, and Multi-Vendor Marketplace Development
+  💨 Custom E-commerce Platforms with Payment Processing
+  💨 Subscription-Based & On-Demand Commerce Solutions
+  💨 AI-Powered Product Recommendation Engines
+  💨 ERP, CRM, and Order Fulfillment System Integrations
+  💨 Warehouse & Inventory Management Solutions
+  💨 Personalized Shopping Experiences with Chatbots & Voice Assistants
+  
+  🛠𝑺𝒌𝒊𝒍𝒍 𝑺𝒆𝒕𝒔
+  
+  .NET Tech Stack
+  💨 Languages: C#, VB.NET
+  💨 Frameworks: ASP.NET MVC, ASP.NET Core, Entity Framework, Blazor
+  💨 Databases: Microsoft SQL Server, MySQL, PostgreSQL, MongoDB, Vector Database
+  💨 Web Services: ASP.NET Web API, WCF, SOAP API, Microservices
+  💨 Mobile Development: Xamarin
+  💨 Cloud Platforms: Microsoft Azure, AWS, GCP
+  💨 Testing: NUnit, xUnit, MSTest, Selenium
+  💨 DevOps: Azure DevOps, Docker, Kubernetes
+  💨 Security: Authentication, Authorization, JWT
+  💨 Agile Methodologies: Scrum, Kanban
+  
+  Node.js Tech Stack
+  💨 Frameworks: Express.js, Nest.js
+  💨 Web Services: RESTful APIs, GraphQL
+  
+  Frontend Stack
+  💨 Frameworks: React.js, Angular
+  💨 Web Technologies: HTML5, CSS3, JavaScript, TypeScript
+  💨 User Interface: Bootstrap, Tailwind CSS, Shadcn/UI
+  💨 IndexDB Integration for efficient data storage
+  
+  💬𝑳𝒆𝒕'𝒔 𝑪𝒐𝒏𝒏𝒆𝒄𝒕
+  I’m eager to collaborate and bring innovative solutions to your projects. Whether you’re looking to optimize existing processes or develop new applications, I’m here to help. Let’s connect and discuss how we can transform your ideas into reality!
 </p>
 
 <p align="center">
