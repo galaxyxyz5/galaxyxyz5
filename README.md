@@ -13,71 +13,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3 align="center">
-  🚀💦 𝑲𝒊𝒄𝒌 𝒐𝒇𝒇 𝒚𝒐𝒖𝒓 𝒑𝒓𝒐𝒋𝒆𝒄𝒕 𝒊𝒎𝒎𝒆𝒅𝒊𝒂𝒕𝒆𝒍𝒚 💦🚀
+  🚀💦 𝑩𝒓𝒊𝒏𝒈 𝒚𝒐𝒖𝒓 𝒊𝒅𝒆𝒂 𝒕𝒐 𝒍𝒊𝒇𝒆 𝑹𝒊𝒈𝒉𝒕 𝒏𝒐𝒘 💦🚀
 </h3>
 
 <p>
-  🌟 <b>C#/.NET/ASP.NET Core/Blazor Expert</b> 🌟 <br />
-  🌟 <b>Angular Expert</b> 🌟 <br />
-  🌟 <b>Healthcare, SaaS, FinTech Expert</b> 🌟 <br />
+  👋 𝗦𝗿. 𝗔𝗻𝗴𝘂𝗹𝗮𝗿 𝗘𝘅𝗽𝗲𝗿𝘁 | 𝗔𝗦𝗣.𝗡𝗘𝗧 𝗠𝗩𝗖 | 𝗫𝗮𝗺𝗮𝗿𝗶𝗻 𝗘𝘅𝗽𝗲𝗿𝘁 | 𝗛𝗲𝗮𝗹𝘁𝗵𝗧𝗲𝗰𝗵 𝗦𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘀𝘁 <br />
+  Senior Full-Stack Developer with extensive experience in Angular, ASP.NET MVC, and Xamarin, specializing in building scalable and high-performance applications. With a strong background in 𝗛𝗲𝗮𝗹𝘁𝗵𝗧𝗲𝗰𝗵, 𝗙𝗶𝗻𝗧𝗲𝗰𝗵, and 𝗘-𝗰𝗼𝗺𝗺𝗲𝗿𝗰𝗲, Successfully developed and deployed complex solutions, ensuring compliance, security, and seamless user experiences. <br /> <br />
   
-  <br />
+  🌐 Expertise <br />
+  🥇 𝗔𝗻𝗴𝘂𝗹𝗮𝗿 & 𝗔𝗦𝗣.𝗡𝗘𝗧 𝗠𝗩𝗖 – Crafting dynamic, fast, and scalable web applications. <br />
+  🥇 𝗫𝗮𝗺𝗮𝗿𝗶𝗻 & .𝗡𝗘𝗧 𝗠𝗔𝗨𝗜 – Building cross-platform mobile applications with native-like performance. <br />
+  🥇 𝗛𝗲𝗮𝗹𝘁𝗵𝗰𝗮𝗿𝗲 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀 – EMR/EHR systems, Telehealth apps <br />
+  🥈 𝗙𝗶𝗻𝗧𝗲𝗰𝗵 & 𝗘-𝗰𝗼𝗺𝗺𝗲𝗿𝗰𝗲 – Payment gateways, digital wallets, AI-powered automation. <br />
+  🥈𝗔𝗜 𝗖𝗵𝗮𝘁𝗯𝗼𝘁𝘀 & 𝗥𝗔𝗚-𝗯𝗮𝘀𝗲𝗱 𝗔𝘀𝘀𝗶𝘀𝘁𝗮𝗻𝘁𝘀 – Enhancing user interactions with AI-powered solutions. <br />
+  🥇 𝗖𝗹𝗼𝘂𝗱 & 𝗗𝗲𝘃𝗢𝗽𝘀 – Azure, AWS, CI/CD, containerization, and scalable infrastructure. <br /> <br />
   
-  🌐 𝑾𝒐𝒓𝒌 𝑬𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆 <br />
+  🛠 Skill Set <br />
+  📍 Frontend: Angular, React, Next.js, TypeScript, Bootstrap, Tailwind CSS <br />
+  📍 Backend: ASP.NET MVC/Core, Node.js, Python (Django, Flask), Laravel <br />
+  📍 Mobile App: Xamarin, .NET MAUI, React Native, Flutter <br />
+  📍 Database: SQL Server, PostgreSQL, MySQL, Supabase <br />
+  📍 Cloud & DevOps: Azure, AWS, Docker, Kubernetes, CI/CD Pipelines <br />
+  📍 AI & Automation: OpenAI API, Amazon Bedrock, AI Chatbot, RAG-based AI Solutions <br /> <br />
   
-  🏥 <b>HealthCare</b> <br />
-  💨 Telehealth/Telemedicine Virtual Appointment Booking Solutions & mHealth Apps <br />
-  💨 EMR, HER, PHI, Medical Billing Solutions for Patient Healthcare/Medical Records <br />
-  💨 Healthcare Marketplace Management Solutions <br />
-  💨 Doctor-patient apps and Websites <br />
-  💨 Medical Job Portals <br />
-  💨 Staff Management Software, and more! <br />
-  💨 Chat-bot, video call, SMS, email service integration <br /> <br />
-  
-  💰 <b>Financial Technology</b> <br />
-  💨 Digital Banking & Payment Gateway Integration <br />
-  💨 P2P Lending Platforms & Digital Wallets <br />
-  💨 Fraud Detection, Risk Assessment & KYC Compliance <br />
-  💨 Blockchain & Smart Contract-Based Financial Solutions <br />
-  💨 Investment & Wealth Management Platforms <br />
-  💨 BNPL (Buy Now, Pay Later) and Microfinance Solutions <br />
-  💨 AI-Powered Financial Analytics & Predictive Modeling <br /> <br />
-  
-  🛒 <b>E-commerce & Marketplace</b> <br />
-  💨 B2B, B2C, and Multi-Vendor Marketplace Development <br />
-  💨 Custom E-commerce Platforms with Payment Processing <br />
-  💨 Subscription-Based & On-Demand Commerce Solutions <br />
-  💨 AI-Powered Product Recommendation Engines <br />
-  💨 ERP, CRM, and Order Fulfillment System Integrations <br />
-  💨 Warehouse & Inventory Management Solutions <br />
-  💨 Personalized Shopping Experiences with Chatbots & Voice Assistants <br /> <br />
-  
-  🛠𝑺𝒌𝒊𝒍𝒍 𝑺𝒆𝒕𝒔 <br />
-  
-  <b>.NET Tech Stack</b> <br />
-  💨 Languages: C#, VB.NET <br />
-  💨 Frameworks: ASP.NET MVC, ASP.NET Core, Entity Framework, Blazor <br />
-  💨 Databases: Microsoft SQL Server, MySQL, PostgreSQL, MongoDB, Vector Database <br />
-  💨 Web Services: ASP.NET Web API, WCF, SOAP API, Microservices <br />
-  💨 Mobile Development: Xamarin <br />
-  💨 Cloud Platforms: Microsoft Azure, AWS, GCP <br />
-  💨 Testing: NUnit, xUnit, MSTest, Selenium <br />
-  💨 DevOps: Azure DevOps, Docker, Kubernetes <br />
-  💨 Security: Authentication, Authorization, JWT <br />
-  💨 Agile Methodologies: Scrum, Kanban <br /> <br />
-  
-  <b>Node.js Tech Stack</b> <br />
-  💨 Frameworks: Express.js, Nest.js <br />
-  💨 Web Services: RESTful APIs, GraphQL <br />
-  
-  <b>Frontend Stack</b> <br />
-  💨 Frameworks: React.js, Angular <br />
-  💨 Web Technologies: HTML5, CSS3, JavaScript, TypeScript <br />
-  💨 User Interface: Bootstrap, Tailwind CSS, Shadcn/UI <br />
-  💨 IndexDB Integration for efficient data storage <br /> <br />
-  
-  💬𝑳𝒆𝒕'𝒔 𝑪𝒐𝒏𝒏𝒆𝒄𝒕 <br />
-  I’m eager to collaborate and bring innovative solutions to your projects. Whether you’re looking to optimize existing processes or develop new applications, I’m here to help. Let’s connect and discuss how we can transform your ideas into reality!
+  💬 Collaboration <br />
+  ⏰ I'm available from 9 am to 5 pm in EST🌎 <br />
+  💡 Let's discuss how we can bring your idea to life. Feel free to reach out! 🚀 <br />
 </p>
 
 <br />
